@@ -40,6 +40,7 @@ public class Hangman {
             System.out.println("Well done, you managed to guess the word!");
         }
 
+
         scanner.close();
 
     }
